@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulali821
-- 👀 I’m interested in Full stack developer
-- 🌱 I’m currently learning Front-end Languages
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me aleecaan9@gmail.com
 
 <!---
