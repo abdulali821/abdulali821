@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulali821
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & React
 - 📫 How to reach me aleecaan9@gmail.com
 
 <!---
