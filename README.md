@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React.js, JavaScript, flutter**
 
-- 📫 How to reach me **aleecaan9@gmail.com**
+- 📫 How to reach me **iamabdulali1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
