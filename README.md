@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Front-end Development**
 
-- 👨‍💻 All of my projects are available at [iamabdulali.netlify.app](iamabdulali.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](iamabdulali.vercel.app)
 
 - 💬 Ask me about **React.js, JavaScript, flutter**
 
