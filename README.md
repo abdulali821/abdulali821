@@ -1,40 +1,152 @@
-<h1 align="center">Hi 👋, I'm Abdul Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi 👋 I'm Abdul Ali</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulali821&label=Profile%20views&color=0e75b6&style=flat" alt="abdulali821" /> </p>
+<h3 align="center">
+Senior Full-Stack Engineer • AI Product Builder • Founder of AniStream
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulali821" alt="abdulali821" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/iamabdulali_" target="blank"><img src="https://img.shields.io/twitter/follow/iamabdulali_?logo=twitter&style=for-the-badge" alt="iamabdulali_" /></a> </p>
-
-- 🔭 I’m currently working on **React.js**
-
-- 🌱 I’m currently learning **React.js, Blockchain**
-
-- 👯 I’m looking to collaborate on **Web Projects**
-
-- 🤝 I’m looking for help with **Front-end Development**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://iamabdulali.vercel.app)
-
-- 💬 Ask me about **React.js, JavaScript, flutter**
-
-- 📫 How to reach me **iamabdulali1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/abdulali821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulali821" height="30" width="40" /></a>
-<a href="https://twitter.com/iamabdulali_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabdulali_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-ali-1753621b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-ali-1753621b4" height="30" width="40" /></a>
-<a href="https://fb.com/alee.caan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alee.caan" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_abdulali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_abdulali" height="30" width="40" /></a>
+<p align="center">
+Building products that scale to hundreds of thousands of users.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulali821&show_icons=true&locale=en&layout=compact" alt="abdulali821" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulali821&show_icons=true&locale=en" alt="abdulali821" /></p>
+I'm a Senior Full-Stack Engineer from Pakistan currently working in Dubai.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulali821&" alt="abdulali821" /></p>
+I love building scalable SaaS products, AI-powered applications and high-performance web platforms.
+
+Currently I'm focused on:
+
+- 🎬 Founder of **Anistream.one**
+- 🛠️ Building **HeyTools.app**
+- 🤖 AI Automation & LLM Integrations
+- ⚡ Next.js, SvelteKit & TypeScript
+- 📈 Product Growth & SEO
+
+---
+
+## 🌎 Products
+
+### 🎬 AniStream
+
+> Anime streaming platform serving **500,000+ users**
+>
+> **25,000+ daily active users**
+
+Tech
+
+- SvelteKit
+- TypeScript
+- Cloudflare
+- VPS Infrastructure
+- SEO
+- Analytics
+
+🔗 https://anistream.one
+
+---
+
+### 🛠️ HeyTools
+
+Collection of useful online developer & productivity tools.
+
+Features
+
+- AI Utilities
+- Image Tools
+- PDF Tools
+- Developer Tools
+- Productivity Tools
+
+🔗 https://heytools.app
+
+---
+
+## 💼 Experience
+
+🏢 Senior MERN Engineer
+Poshmaals Technologies
+
+🏢 Next.js Developer
+Fuzion Dev
+
+🏢 Frontend Engineer
+Recache Cloud (USA)
+
+🏢 Frontend Engineer
+Apptex Software Solutions
+
+🏢 Google Developer Student Club
+Application Developer
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+
+Next.js • React • SvelteKit • TypeScript • JavaScript • Tailwind CSS
+
+### Backend
+
+Node.js • Express • Prisma • PostgreSQL • Supabase • Firebase
+
+### AI
+
+OpenAI
+Claude
+Gemini
+AI Agents
+LLMs
+Automation
+
+### DevOps
+
+Linux
+Nginx
+Cloudflare
+CI/CD
+VPS
+GitHub Actions
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulali821&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulali821&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abdulali821&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect
+
+Portfolio
+https://iamabdulali.vercel.app
+
+LinkedIn
+https://linkedin.com/in/iamabdulali
+
+AniStream
+https://anistream.one
+
+HeyTools
+https://heytools.app
+
+Email
+iamabdulali1@gmail.com
+
+---
+
+> *Building products people actually use.*
