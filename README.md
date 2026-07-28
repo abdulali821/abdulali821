@@ -133,12 +133,12 @@ GitHub Actions
 ## 🌐 Connect
 
 Portfolio
-https://iamabdulali.vercel.app
+https://iamabdulali.com
 
 LinkedIn
 https://linkedin.com/in/iamabdulali
 
-AniStream
+Anistream
 https://anistream.one
 
 HeyTools
