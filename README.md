@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Abdul Ali</h1>
 
 <h3 align="center">
-Senior Full-Stack Engineer • AI Product Builder • Founder of AniStream
+Senior Full-Stack Engineer • AI Product Builder • Founder of Anistream
 </h3>
 
 <p align="center">
@@ -18,8 +18,8 @@ I love building scalable SaaS products, AI-powered applications and high-perform
 
 Currently I'm focused on:
 
-- 🎬 Founder of **Anistream.one**
-- 🛠️ Building **HeyTools.app**
+- 🎬 Founder of **Anistream.one** & **HeyTools.app**
+- 🛠️ Building **Viralfy** - AI Viral Video Generator
 - 🤖 AI Automation & LLM Integrations
 - ⚡ Next.js, SvelteKit & TypeScript
 - 📈 Product Growth & SEO
@@ -28,7 +28,7 @@ Currently I'm focused on:
 
 ## 🌎 Products
 
-### 🎬 AniStream
+### 🎬 Anistream
 
 > Anime streaming platform serving **500,000+ users**
 >
