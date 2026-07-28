@@ -246,7 +246,7 @@ Coming Soon...
 
 <p align="center">
 
-<a href="https://iamabdulali.vercel.app">
+<a href="https://iamabdulali.com">
 <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
